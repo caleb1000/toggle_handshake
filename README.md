@@ -1,6 +1,6 @@
 # Toggle-level Handshake
 
-<br>The following is a toggle-level handshake protocol which is used to transmit data safely across clock domains.<br />
+<br>The following is a toggle-level handshake protocol which is used to transmit data safely across clock domains. Crossing clock domains is sometimes unavoidable when multiple devices in a design utilize different clock frequencies. While dual-flop synchronizers work for single bits, to reliably transfer larger data sizes a more sophisticated design must be used. The image below shows the circuit being split up between the source and destination clock domains.  <br />
 ![image](https://user-images.githubusercontent.com/30327564/207420060-4d6913ec-c797-4edf-8612-0dcf48dbc16e.png)
 <br>This design was created based on the circuit described in the paper below.<br />
 http://www.gstitt.ece.ufl.edu/courses/eel4720_5721/lectures/metastability/276202.pdf
