@@ -10,7 +10,7 @@ http://www.gstitt.ece.ufl.edu/courses/eel4720_5721/lectures/metastability/276202
 
 <br>The following is based on the waveform given in the previous paper. I extended it out to three transfers to show that the protocol uses toggle level rather than logic level as a means of synchronization.<br />
 ![image](https://user-images.githubusercontent.com/30327564/207425691-566908f0-ecc0-4579-80ba-a2d0df85b4a2.png)
-
+<br>Below shows a waveform of the circuit utilizing the testbench which matches the one provided in the paper.<br/>
 ![image](https://user-images.githubusercontent.com/30327564/207424070-8606abf3-5eac-427e-a620-f5cabb9b607e.png)
 
 
