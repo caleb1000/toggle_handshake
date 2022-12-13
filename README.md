@@ -6,4 +6,9 @@ http://www.gstitt.ece.ufl.edu/courses/eel4720_5721/lectures/metastability/276202
 Below is a waveform of the provided testbench. In this simple testbench we send the current transfer number as the data we wish to cross clock domains.
 ![image](https://user-images.githubusercontent.com/30327564/207421357-01d4a4bc-b5be-43e9-a88b-9765a5e54e42.png)
 
+![image](https://user-images.githubusercontent.com/30327564/207424153-c345c420-7ce0-4dc5-94c9-e26994461fc2.png)
+
+![image](https://user-images.githubusercontent.com/30327564/207424070-8606abf3-5eac-427e-a620-f5cabb9b607e.png)
+
+
 
